@@ -1,0 +1,25 @@
+.myBtn{
+    /* Кнопка */
+
+
+    /* Auto layout */
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+
+    padding: 5px 15px;
+    gap: 10px;
+
+    width: 329px;
+    height: 54px;
+    left: 102px;
+    top: 549px;
+    border: none;
+
+    background: #4DBDC2;
+}
+.myBtn:hover {
+    background: #19A1A7;
+}
